@@ -17,7 +17,7 @@ I have acquired experience in Construction, Woodworking, CNC and Manual Machinin
 ### Technical Expertise
 "(Showcase your experience with implementing designed parts.)"
 ### Strategic Problem-Solving
-"(Provide a few specific examples)"
+"(Provide a few examples)"
 ---
 ### Revit/AutoCAD
 ### Solidworks
