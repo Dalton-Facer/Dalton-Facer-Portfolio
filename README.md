@@ -10,6 +10,7 @@ I have acquired experience in Construction, Woodworking, CNC and Manual Machinin
 ## 3. Projects
 
 ### Hammer
+
 ### Machined compressed air engine
 ### Drag Testing Lab Equipment
 ### Automated Pharmaceutical Packaging Line
