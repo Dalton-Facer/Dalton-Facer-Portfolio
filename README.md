@@ -2,7 +2,7 @@
 ## 1. Who Am I?
 My name is Dalton Facer, I have earned my Associates in Applied Sciences Degree from Delaware Terchnical Community College, and I am currently an Undergraduate Mechanical Engineering Student in the College of Engineering at the University of Delaware. 
 I have acquired experience in Construction, Woodworking, CNC and Manual Machining, Addative Manufacturing, and Home Projects, as well as digital design experience with programs such as Revit, AutoCAD, Solidworks, OnShape, C++, and Python.
-![image](5.jpg|200)
+<img src="5.jpg" alt="image" width="400">
 ## 3. Projects
 
 ### Hammer
