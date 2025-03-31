@@ -12,19 +12,22 @@ I have acquired experience in Construction, Woodworking, CNC and Manual Machinin
 
 ## 3. Skills
 
-### Design
-### b.
-### c.
+### Prototyping & Fabrication
+"(Showcase your experience with machining, 3D printing, and physical builds.)"
+### Technical Expertise
+"(Showcase your experience with implementing designed parts.)"
+### Strategic Problem-Solving
+"(Provide a few specific examples)"
 ---
 ### Revit/AutoCAD
 ### Solidworks
 ### C++ and Python
 ---
-### a.
-### b.
-### c.
+### Collaborative Engineering & Teamwork
+### Hands-On Leadership
+### Certifications & Professional Development
 
-## 4. Work and Internship Experience
+## 4. Work and Internship Experience | Certifications and Training
 
 ### StudioJAED
 ### Rogan Custom Construction
