@@ -15,11 +15,11 @@ I have acquired experience in Construction, Woodworking, CNC and Manual Machinin
 ### Design
 ### b.
 ### c.
-
+---
 ### Revit/AutoCAD
 ### Solidworks
 ### C++ and Python
-
+---
 ### a.
 ### b.
 ### c.
