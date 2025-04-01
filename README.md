@@ -13,10 +13,11 @@ I have acquired experience in Construction, Woodworking, CNC and Manual Machinin
 
 ### Camp Barnes Eagle Project
 <div align="center">
-    <img src="Camp_Barnes_001.jpg" alt="image" width="400">;
-    Eagle Project: Camp BarnesWaterfront Sign
+    <img src="Camp_Barnes_001.jpg" alt="image" width="400">
 </div>
-
+<div align="center">
+    #### Eagle Project: Camp BarnesWaterfront Sign
+</div>
 
 ### Machined compressed air engine
 
