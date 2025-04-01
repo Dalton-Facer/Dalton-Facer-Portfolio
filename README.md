@@ -9,8 +9,6 @@ I have acquired experience in Construction, Woodworking, CNC and Manual Machinin
 
 ## 3. Projects
 
-### Hammer
-
 ### Camp Barnes Eagle Project
 <div align="center">
     <img src="Camp_Barnes_001.jpg" alt="image" width="600">
@@ -23,8 +21,16 @@ I have acquired experience in Construction, Woodworking, CNC and Manual Machinin
 ### Machined compressed air engine
 
 ### Drag Testing Lab Equipment
+<div align="center">
+    <img src="Drag_Testing_001.jpg" alt="image" width="600">
+</div>
+<div align="center">
+    Eagle Project: Camp Barnes Waterfront Sign
+</div>
 
 ### Automated Pharmaceutical Packaging Line
+
+### Hammer
 
 ## 3. Skills
 
