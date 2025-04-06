@@ -69,7 +69,7 @@ Once we constructed a working prototype, we made 13 more full assemblies. Each m
 In my Engineering project class, we were assigned with designing drag testing equipment. The fluids lab was in need of a tool for demonstrating the coefficient of drag equation, so we developed a fluid loop powered by two electric thrusters.
 
 <div align="center">
-    <img src="photos/Drag_Testing_002.jpg" alt="image" width="600">
+    <img src="photos/Drag_Testing_002.png" alt="image" width="600">
 </div>
 <div align="center">
     <b>Eagle Project: Camp Barnes Waterfront Sign</b>
