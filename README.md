@@ -36,14 +36,14 @@ I have acquired experience in Construction, Woodworking, CNC and Manual Machinin
 ### Machined compressed air engine
 
 <div align="center">
-    <img src="photos/Air_Engine_004.jpg" alt="image" width="600">
+    <img src="photos/Air_Engine_004.jpg" alt="image" width="400">
 </div>
 <div align="center">
     Air-Piston Cylinder Assembly Operational Prototype
 </div>
 
 <div align="center">
-    <img src="photos/Air_Engine_001.jpg" alt="image" width="600">
+    <img src="photos/Air_Engine_001.jpg" alt="image" width="300">
 </div>
 <div align="center">
     My Air-Piston Cylinder Part
@@ -57,7 +57,7 @@ I have acquired experience in Construction, Woodworking, CNC and Manual Machinin
 </div>
 
 <div align="center">
-    <img src="photos/Air_Engine_003.jpg" alt="image" width="600">
+    <img src="photos/Air_Engine_003.jpg" alt="image" width="300">
 </div>
 <div align="center">
     Air-Piston Cylinders
