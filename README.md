@@ -10,7 +10,7 @@ I have acquired experience in Construction, Woodworking, CNC and Manual Machinin
 ## 3. Projects
 
 ### Camp Barnes Eagle Project
-Scouting has played a crucial role in shaping the man I have become today, as much of my childhood was spent going on camping trips, completing Merit Badges, and into my early adult life, leading a Troop of other young adults whom I would inspire. The completion of my Eeagle Project is an achievement I take much pride in.
+Scouting has played a crucial role in shaping the man I have become today, as much of my childhood was spent going on camping trips, completing Merit Badges, and into my early adult life, leading a Troop of other young adults whom I would inspire. The completion of my Eeagle Project, the fundraising and construction of a waterfront sign for Camp Barnes in Selbyville, DE, is an achievement I take much pride in.
 <div align="center">
     <img src="photos/Camp_Barnes_003.jpg" alt="image" width="400">
 </div>
@@ -72,7 +72,7 @@ In my Engineering project class, we were assigned with designing drag testing eq
     <img src="photos/Drag_Testing_002.png" alt="image" width="600">
 </div>
 <div align="center">
-    <b>Eagle Project: Camp Barnes Waterfront Sign</b>
+    <b>Drag Testing Equipment Drawing</b>
 </div>
 
 In order to determine the coefficient of drag on an object, we need the density of the fluid, he reference area of the object, the force applied to the object, and the velocity of the fluid. With our design, we measure the force of drag on the object with a load cell, and can find the fluid velocity with the flow rate in the tubing.
@@ -81,38 +81,29 @@ In order to determine the coefficient of drag on an object, we need the density 
     <img src="photos/Drag_Testing_001.jpg" alt="image" width="600">
 </div>
 <div align="center">
-    <b>Eagle Project: Camp Barnes Waterfront Sign</b>
+    <b>Drag Testing Equipment Assembly</b>
 </div>
 
 This entire project needed to be waterproofed, transportable, and easy to operate, so we made sure to put the proper measures in place to ensure ease of use and maximal safety.
 
 ### Automated Pharmaceutical Packaging Line
 
+I am currently attending University of Delaware and am working with a team of engineers to finalize the front station of a Pharmaceutical Packaging Line. It will automatically orient pill bottles upright, fill them with exactly 30 pills, weigh and reject the bottles with too many or too little pills, and transition the bottles to the back station.
+
 <div align="center">
-    <img src="photos/pharmaceutical.jpg" alt="image" width="600">
+    <img src="photos/Pharmaceutical.jpg" alt="image" width="600">
 </div>
 <div align="center">
     <b>Automated Pharmaceutical Packaging Line</b>
 </div>
 
-### Hammer
+This system will be fully operational in early may, and will ideally work consistently and fully-autonomously.
 
 ## 3. Skills
 
-### Prototyping & Fabrication
-"(Showcase your experience with machining, 3D printing, and physical builds.)"
-### Technical Expertise
-"(Showcase your experience with implementing designed parts.)"
 ### Strategic Problem-Solving
 "(Provide a few examples)"
----
-### Revit/AutoCAD
-### Solidworks
-### C++ and Python
----
-### Collaborative Engineering & Teamwork
-### Hands-On Leadership
-### Certifications & Professional Development
+### Certifications & Professional Development (Outstanding Graduate, Eagle)
 
 ## 4. Work and Internship Experience | Certifications and Training
 
