@@ -38,7 +38,7 @@ Through this experience, I gained valuable skills in advertising and fundraising
         
 The project was in total around $4,900, all of which I did the promotion and fundraising for, including fundraising at local banks, collaborating with local businesses, and speaking in front of a nonprofit organization of local contractors, contractors for a cause.
 
-### Machined compressed air engine
+### Delaware Tech Machined Compressed Air Engine
 
 This project involved designing and machining a compressed air engine from scratch. I contributed by machining the air-piston cylinder and helping assemble the functional prototype. This required precision CNC and manual machining, technical drawings, and hands-on teamwork.
 
@@ -46,30 +46,45 @@ This project involved designing and machining a compressed air engine from scrat
     <img src="photos/Air_Engine_001.jpg" alt="image" width="300">
 </div>
 <div align="center">
-    <b>Designated Air-Piston Cylinder Part</b>
+    <b>Designated Compressed Air Engine Cam</b>
 </div>
 
 <div align="center">
     <img src="photos/Air_Engine_002.jpg" alt="image" width="500">
 </div>
 <div align="center">
-    <b>Air-Piston Cylinder Technical Drawing</b>
+    <b>Compressed Air Engine Cam Technical Drawing</b>
 </div>
 
 <div align="center">
     <img src="photos/Air_Engine_004.jpg" alt="image" width="300">
 </div>
 <div align="center">
-    <b>Air-Piston Cylinder Operational Prototype Assembly</b>
+    <b>Compressed Air Engine Operational Prototype Assembly</b>
 </div>
 
-### Drag Testing Lab Equipment
+Once we constructed a working prototype, we made 13 more full assemblies. Each member of the team acquired an operational Air-Piston Cylinder.
+
+### Delaware Tech Engineering Project: Drag Testing Lab Equipment
+In my Engineering project class, we were assigned with designing drag testing equipment. The fluids lab was in need of a tool for demonstrating the coefficient of drag equation, so we developed a fluid loop powered by two electric thrusters.
+
 <div align="center">
     <img src="photos/Drag_Testing_001.jpg" alt="image" width="600">
 </div>
 <div align="center">
     <b>Eagle Project: Camp Barnes Waterfront Sign</b>
 </div>
+
+In order to determine the coefficient of drag on an object, we need the density of the fluid, he reference area of the object, the force applied to the object, and the velocity of the fluid. With our design, we measure the force of drag on the object with a load cell, and can find the fluid velocity with the flow rate in the tubing.
+
+<div align="center">
+    <img src="photos/Drag_Testing_001.jpg" alt="image" width="600">
+</div>
+<div align="center">
+    <b>Eagle Project: Camp Barnes Waterfront Sign</b>
+</div>
+
+This entire project needed to be waterproofed, transportable, and easy to operate, so we made sure to put the proper measures in place to ensure ease of use and maximal safety.
 
 ### Automated Pharmaceutical Packaging Line
 
