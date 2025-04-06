@@ -30,13 +30,13 @@ My father was the Scoutmaster for most of the time I was in the scouting, and fo
 Through this experience, I gained valuable skills in advertising and fundraising, designing, promoting the project, assembling a team of volunteers, scheduling, and leading the construction process. I had began fundraising for this project around the time that COVID hit, which caused for price inflations and longer wait times. This was a big hurdle which delayed the project, but it was one that I would eventually break past.
 
 <div align="center">
-    <img src="photos/eagle_costs.png" alt="image" width="300">
+    <img src="photos/eagle_costs.png" alt="image" width="600">
 </div>
 <div align="center" font="bold">
-    <b>Fundraiser</b>
+    <b>Project Totals</b>
 </div>
         
-The project was in total around $5,000, all of which I did the promotion and fundraising for.
+The project was in total around $4,900, all of which I did the promotion and fundraising for, including fundraising at local banks, collaborating with local businesses, and speaking in front of a nonprofit organization of local contractors, contractors for a cause.
 
 <div align="center">
     <img src="photos/Camp_Barnes_001.jpg" alt="image" width="300">
