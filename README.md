@@ -10,15 +10,58 @@ I have acquired experience in Construction, Woodworking, CNC and Manual Machinin
 ## 3. Projects
 
 ### Camp Barnes Eagle Project
+
 <div align="center">
-    <img src="photos/Camp_Barnes_001.jpg" alt="image" width="600">
+    <img src="photos/Camp_Barnes_002.jpg" alt="image" width="600">
 </div>
 <div align="center">
     Eagle Project: Camp Barnes Waterfront Sign
 </div>
 
+<div align="center">
+    <img src="photos/Camp_Barnes_002.jpg" alt="image" width="600">
+</div>
+<div align="center">
+    Fundraiser
+</div>
+
+<div align="center">
+    <img src="photos/Camp_Barnes_001.jpg" alt="image" width="600">
+</div>
+<div align="center">
+    Team Behind Construction
+</div>
+
 
 ### Machined compressed air engine
+
+<div align="center">
+    <img src="photos/Air_Engine_004.jpg" alt="image" width="600">
+</div>
+<div align="center">
+    Air-Piston Cylinder Assembly Operational Prototype
+</div>
+
+<div align="center">
+    <img src="photos/Air_Engine_001.jpg" alt="image" width="600">
+</div>
+<div align="center">
+    My Air-Piston Cylinder Part
+</div>
+
+<div align="center">
+    <img src="photos/Air_Engine_002.jpg" alt="image" width="600">
+</div>
+<div align="center">
+    Air-Piston Cylinder Part Drawing
+</div>
+
+<div align="center">
+    <img src="photos/Air_Engine_003.jpg" alt="image" width="600">
+</div>
+<div align="center">
+    Air-Piston Cylinders
+</div>
 
 ### Drag Testing Lab Equipment
 <div align="center">
@@ -29,6 +72,13 @@ I have acquired experience in Construction, Woodworking, CNC and Manual Machinin
 </div>
 
 ### Automated Pharmaceutical Packaging Line
+
+<div align="center">
+    <img src="photos/pharmaceutical.jpg" alt="image" width="600">
+</div>
+<div align="center">
+    Automated Pharmaceutical Packaging Line
+</div>
 
 ### Hammer
 
