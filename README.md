@@ -7,7 +7,7 @@ I have acquired experience in Construction, Woodworking, CNC and Manual Machinin
     <img src="photos/5.jpg" alt="image" width="300">
 </div>
 
-## 3. Projects
+## 2. Projects
 
 ### Camp Barnes Eagle Project
 Scouting has played a crucial role in shaping the man I have become today, as much of my childhood was spent going on camping trips, completing Merit Badges, and into my early adult life, leading a Troop of other young adults whom I would inspire. The completion of my Eeagle Project, the fundraising and construction of a waterfront sign for Camp Barnes in Selbyville, DE, is an achievement I take much pride in.
@@ -75,7 +75,14 @@ This entire project needed to be waterproofed, transportable, and easy to operat
 I am currently attending University of Delaware and am working with a team of engineers to finalize the front station of a Pharmaceutical Packaging Line. It will automatically orient pill bottles upright, fill them with exactly 30 pills, weigh and reject the bottles with too many or too little pills, and transition the bottles to the back station.
 
 <div align="center" style="font-weight: bold;">
-    <img src="photos/Pharmaceutical_001.jpg" alt="image" width="600"><br>
+    <img src="photos/Assembly_001.png" alt="image" width="300"><br>
+    Automated Pharmaceutical Packaging Line CAD
+</div>
+
+We have completed the assembly of this processing line, and are currently working on perfecting each susbsystem, and calibrating the automation process.
+
+<div align="center" style="font-weight: bold;">
+    <img src="photos/Pharmaceutical_001.jpg" alt="image" width="300"><br>
     Automated Pharmaceutical Packaging Line
 </div>
 
@@ -83,15 +90,21 @@ This system will be fully operational in early may, and will ideally work consis
 
 ## 3. Skills
 
-### Strategic Problem-Solving
-"(Provide a few examples)"
-### Certifications & Professional Development (Outstanding Graduate, Eagle)
+### Manufacturing, CAD, and Simulation
+Prototyping, Designing, and Manufacturing are all things that I have acquired extensive training with in my edcation, work, and home projects.
+
+### Leadership (Eagle + Outstanding Graduate + Collaboration with Separate Groups)
+I have had many oppertunities to demonstrate my leadership in both Scouting and College. I believe my experience has helped me become a well-rounded, professional engineer who takes pride in his work.
+
+### Professionalism
+
+In my Engineering and my leadership, I pride myself in my tendancy to be punctual, and to strive for maximal proficiency. I put in the utmost effort to have a deep-seated understanding of all facets of my work. This dedication fuels my excitement for learning and continuous improvement. This perspective derives itself from my love for playing the piano, an art that demands discipline, precision, and creativity. The parallels between my passions and proficiencies often shape my decision-making process. I tend to think in comparisons and metaphors, taking ideas from one area and applying them in another to see things from a new angle or come up with creative solutions.
 
 ## 4. Work and Internship Experience | Certifications and Training
 
 ### StudioJAED
-Rennovations
-Surveys
+#### Rennovations
+#### Surveys
 
 ### Rogan Custom Construction
 ### CPR Delaware
