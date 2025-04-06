@@ -11,10 +11,8 @@ I have acquired experience in Construction, Woodworking, CNC and Manual Machinin
 
 ### Camp Barnes Eagle Project
 Scouting has played a crucial role in shaping the man I have become today, as much of my childhood was spent going on camping trips, completing Merit Badges, and into my early adult life, leading a Troop of other young adults whom I would inspire. The completion of my Eeagle Project, the fundraising and construction of a waterfront sign for Camp Barnes in Selbyville, DE, is an achievement I take much pride in.
-<div align="center">
-    <img src="photos/Camp_Barnes_003.jpg" alt="image" width="400">
-</div>
 <div align="center" style="font-weight: bold;">
+    <img src="photos/Camp_Barnes_003.jpg" alt="image" width="400"><br>
     Eagle Project: Camp Barnes Waterfront Sign
 </div>
 
