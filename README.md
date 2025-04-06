@@ -18,20 +18,16 @@ Scouting has played a crucial role in shaping the man I have become today, as mu
 
 My father was the Scoutmaster for most of the time I was in the scouting, and for alot of that time he would keep a hands-off approach. He would allow the boys to problem solve on their own and to justify their decisions whilst working out disputes. While I was working on my eagle project, he kept this approach. He gave suggestions but did not at any point take control of my project. It allowed me face the chalenge with my own two hands. 
 
-<div align="center">
-    <img src="photos/Camp_Barnes_002.jpg" alt="image" width="250">
-</div>
-<div align="center">
-    <b>Fundraiser</b>
+<div align="center" style="font-weight: bold;">
+    <img src="photos/Camp_Barnes_002.jpg" alt="image" width="250"><br>
+    Fundraiser
 </div>
 
 Through this experience, I gained valuable skills in advertising and fundraising, designing, promoting the project, assembling a team of volunteers, scheduling, and leading the construction process. I had began fundraising for this project around the time that COVID hit, which caused for price inflations and longer wait times. This was a big hurdle which delayed the project, but it was one that I would eventually break past.
 
-<div align="center">
-    <img src="photos/eagle_costs.png" alt="image" width="600">
-</div>
-<div align="center" font="bold">
-    <b>Project Totals</b>
+<div align="center" style="font-weight: bold;">
+    <img src="photos/eagle_costs.png" alt="image" width="600"><br>
+    Project Totals
 </div>
         
 The project was in total around $4,900, all of which I did the promotion and fundraising for, including fundraising at local banks, collaborating with local businesses, and speaking in front of a nonprofit organization of local contractors, contractors for a cause.
@@ -40,25 +36,19 @@ The project was in total around $4,900, all of which I did the promotion and fun
 
 This project involved designing and machining a compressed air engine from scratch. I contributed by machining the air-piston cylinder and helping assemble the functional prototype. This required precision CNC and manual machining, technical drawings, and hands-on teamwork.
 
-<div align="center">
-    <img src="photos/Air_Engine_001.jpg" alt="image" width="300">
-</div>
-<div align="center">
-    <b>Designated Compressed Air Engine Cam</b>
+<div align="center" style="font-weight: bold;">
+    <img src="photos/Air_Engine_001.jpg" alt="image" width="300"><br>
+    Designated Compressed Air Engine Cam
 </div>
 
-<div align="center">
-    <img src="photos/Air_Engine_002.jpg" alt="image" width="500">
-</div>
-<div align="center">
-    <b>Compressed Air Engine Cam Technical Drawing</b>
+<div align="center" style="font-weight: bold;">
+    <img src="photos/Air_Engine_002.jpg" alt="image" width="500"><br>
+    Compressed Air Engine Cam Technical Drawing
 </div>
 
-<div align="center">
-    <img src="photos/Air_Engine_004.jpg" alt="image" width="300">
-</div>
-<div align="center">
-    <b>Compressed Air Engine Operational Prototype Assembly</b>
+<div align="center" style="font-weight: bold;">
+    <img src="photos/Air_Engine_004.jpg" alt="image" width="300"><br>
+    Compressed Air Engine Operational Prototype Assembly
 </div>
 
 Once we constructed a working prototype, we made 13 more full assemblies. Each member of the team acquired an operational Air-Piston Cylinder.
@@ -66,20 +56,16 @@ Once we constructed a working prototype, we made 13 more full assemblies. Each m
 ### Delaware Tech Engineering Project: Drag Testing Lab Equipment
 In my Engineering project class, we were assigned with designing drag testing equipment. The fluids lab was in need of a tool for demonstrating the coefficient of drag equation, so we developed a fluid loop powered by two electric thrusters.
 
-<div align="center">
-    <img src="photos/Drag_Testing_002.png" alt="image" width="600">
-</div>
-<div align="center">
-    <b>Drag Testing Equipment Drawing</b>
+<div align="center" style="font-weight: bold;">
+    <img src="photos/Drag_Testing_002.png" alt="image" width="600"><br>
+    Drag Testing Equipment Drawing
 </div>
 
 In order to determine the coefficient of drag on an object, we need the density of the fluid, he reference area of the object, the force applied to the object, and the velocity of the fluid. With our design, we measure the force of drag on the object with a load cell, and can find the fluid velocity with the flow rate in the tubing.
 
-<div align="center">
-    <img src="photos/Drag_Testing_001.jpg" alt="image" width="600">
-</div>
-<div align="center">
-    <b>Drag Testing Equipment Assembly</b>
+<div align="center" style="font-weight: bold;">
+    <img src="photos/Drag_Testing_001.jpg" alt="image" width="600"><br>
+    Drag Testing Equipment Assembly
 </div>
 
 This entire project needed to be waterproofed, transportable, and easy to operate, so we made sure to put the proper measures in place to ensure ease of use and maximal safety.
@@ -88,11 +74,9 @@ This entire project needed to be waterproofed, transportable, and easy to operat
 
 I am currently attending University of Delaware and am working with a team of engineers to finalize the front station of a Pharmaceutical Packaging Line. It will automatically orient pill bottles upright, fill them with exactly 30 pills, weigh and reject the bottles with too many or too little pills, and transition the bottles to the back station.
 
-<div align="center">
-    <img src="photos/Pharmaceutical_001.jpg" alt="image" width="600">
-</div>
-<div align="center">
-    <b>Automated Pharmaceutical Packaging Line</b>
+<div align="center" style="font-weight: bold;">
+    <img src="photos/Pharmaceutical_001.jpg" alt="image" width="600"><br>
+    Automated Pharmaceutical Packaging Line
 </div>
 
 This system will be fully operational in early may, and will ideally work consistently and fully-autonomously.
