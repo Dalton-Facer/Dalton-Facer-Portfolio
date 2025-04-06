@@ -38,14 +38,6 @@ Through this experience, I gained valuable skills in advertising and fundraising
         
 The project was in total around $4,900, all of which I did the promotion and fundraising for, including fundraising at local banks, collaborating with local businesses, and speaking in front of a nonprofit organization of local contractors, contractors for a cause.
 
-<div align="center">
-    <img src="photos/Camp_Barnes_001.jpg" alt="image" width="300">
-</div>
-<div align="center">
-    <b>Team Behind Construction</b>
-</div>
-
-
 ### Machined compressed air engine
 
 This project involved designing and machining a compressed air engine from scratch. I contributed by machining the air-piston cylinder and helping assemble the functional prototype. This required precision CNC and manual machining, technical drawings, and hands-on teamwork.
