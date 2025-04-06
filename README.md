@@ -19,14 +19,14 @@ I have acquired experience in Construction, Woodworking, CNC and Manual Machinin
 </div>
 
 <div align="center">
-    <img src="photos/Camp_Barnes_002.jpg" alt="image" width="600">
+    <img src="photos/Camp_Barnes_002.jpg" alt="image" width="300">
 </div>
 <div align="center">
     Fundraiser
 </div>
 
 <div align="center">
-    <img src="photos/Camp_Barnes_001.jpg" alt="image" width="600">
+    <img src="photos/Camp_Barnes_001.jpg" alt="image" width="300">
 </div>
 <div align="center">
     Team Behind Construction
