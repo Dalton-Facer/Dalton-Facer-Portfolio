@@ -12,7 +12,7 @@ I have acquired experience in Construction, Woodworking, CNC and Manual Machinin
 ### Camp Barnes Eagle Project
 
 <div align="center">
-    <img src="photos/Camp_Barnes_002.jpg" alt="image" width="600">
+    <img src="photos/Camp_Barnes_003.jpg" alt="image" width="600">
 </div>
 <div align="center">
     Eagle Project: Camp Barnes Waterfront Sign
