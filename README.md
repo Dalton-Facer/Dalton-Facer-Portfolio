@@ -15,7 +15,7 @@ Scouting has played a crucial role in shaping the man I have become today, as mu
     <img src="photos/Camp_Barnes_003.jpg" alt="image" width="400">
 </div>
 <div align="center">
-    Eagle Project: Camp Barnes Waterfront Sign
+    <b>Eagle Project: Camp Barnes Waterfront Sign</b>
 </div>
 
 My father was the Scoutmaster for most of the time I was in the scouting, and for alot of that time he would keep a hands-off approach. He would allow the boys to problem solve on their own and to justify their decisions whilst working out disputes. While I was working on my eagle project, he kept this approach. He gave suggestions but did not at any point take control of my project. It allowed me face the chalenge with my own two hands. 
@@ -24,23 +24,25 @@ My father was the Scoutmaster for most of the time I was in the scouting, and fo
     <img src="photos/Camp_Barnes_002.jpg" alt="image" width="250">
 </div>
 <div align="center">
-    Fundraiser
+    <b>Fundraiser</b>
 </div>
 
 Through this experience, I gained valuable skills in advertising and fundraising, designing, promoting the project, assembling a team of volunteers, scheduling, and leading the construction process. I had began fundraising for this project around the time that COVID hit, which caused for price inflations and longer wait times. This was a big hurdle which delayed the project, but it was one that I would eventually break past.
 
 <div align="center">
     <img src="photos/eagle_costs.png" alt="image" width="300">
-    <"Fundraiser">
 </div>
-
+<div align="center" font="bold">
+    <b>Fundraiser</b>
+</div>
+        
 The project was in total around $5,000, all of which I did the promotion and fundraising for.
 
 <div align="center">
     <img src="photos/Camp_Barnes_001.jpg" alt="image" width="300">
 </div>
 <div align="center">
-    Team Behind Construction
+    <b>Team Behind Construction</b>
 </div>
 
 
@@ -52,21 +54,21 @@ This project involved designing and machining a compressed air engine from scrat
     <img src="photos/Air_Engine_001.jpg" alt="image" width="300">
 </div>
 <div align="center">
-    My Air-Piston Cylinder Part
+    <b>Designated Air-Piston Cylinder Part</b>
 </div>
 
 <div align="center">
     <img src="photos/Air_Engine_002.jpg" alt="image" width="500">
 </div>
 <div align="center">
-    Air-Piston Cylinder Technical Drawing
+    <b>Air-Piston Cylinder Technical Drawing</b>
 </div>
 
 <div align="center">
     <img src="photos/Air_Engine_004.jpg" alt="image" width="300">
 </div>
 <div align="center">
-    Air-Piston Cylinder Operational Prototype Assembly
+    <b>Air-Piston Cylinder Operational Prototype Assembly</b>
 </div>
 
 ### Drag Testing Lab Equipment
@@ -74,7 +76,7 @@ This project involved designing and machining a compressed air engine from scrat
     <img src="photos/Drag_Testing_001.jpg" alt="image" width="600">
 </div>
 <div align="center">
-    Eagle Project: Camp Barnes Waterfront Sign
+    <b>Eagle Project: Camp Barnes Waterfront Sign</b>
 </div>
 
 ### Automated Pharmaceutical Packaging Line
@@ -83,7 +85,7 @@ This project involved designing and machining a compressed air engine from scrat
     <img src="photos/pharmaceutical.jpg" alt="image" width="600">
 </div>
 <div align="center">
-    Automated Pharmaceutical Packaging Line
+    <b>Automated Pharmaceutical Packaging Line</b>
 </div>
 
 ### Hammer
