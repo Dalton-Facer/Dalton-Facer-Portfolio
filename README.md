@@ -90,6 +90,9 @@ This system will be fully operational in early may, and will ideally work consis
 ## 4. Work and Internship Experience | Certifications and Training
 
 ### StudioJAED
+Rennovations
+Surveys
+
 ### Rogan Custom Construction
 ### CPR Delaware
 
