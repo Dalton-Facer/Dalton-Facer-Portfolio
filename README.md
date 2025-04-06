@@ -27,9 +27,14 @@ My father was the Scoutmaster for most of the time I was in the scouting, and fo
     Fundraiser
 </div>
 
-Through this experience, I gained valuable skills in advertising and fundraising, designing, promoting the project, assembling a team of volunteers, scheduling, and leading the construction process. I had began fundraising for this project around the time that COVID hit, which caused for price inflations and longer wait times. When I went searching for a designer and builder of my sign, the lowest cost I could find was 
-I felt that I had learned all of these skills through my own effort, and in the process, I had fulfilled my goal to flourish. Not just as a Scout, but as a leader. This experience inspired me to pursue engineering, and to always 
+Through this experience, I gained valuable skills in advertising and fundraising, designing, promoting the project, assembling a team of volunteers, scheduling, and leading the construction process. I had began fundraising for this project around the time that COVID hit, which caused for price inflations and longer wait times. This was a big hurdle which delayed the project, but it was one that I would eventually break past.
 
+<div align="center">
+    <img src="photos/eagle_costs.png" alt="image" width="300">
+    <"Fundraiser">
+</div>
+
+The project was in total around $5,000, all of which I did the promotion and fundraising for.
 
 <div align="center">
     <img src="photos/Camp_Barnes_001.jpg" alt="image" width="300">
@@ -41,12 +46,7 @@ I felt that I had learned all of these skills through my own effort, and in the 
 
 ### Machined compressed air engine
 
-<div align="center">
-    <img src="photos/Air_Engine_004.jpg" alt="image" width="300">
-</div>
-<div align="center">
-    Air-Piston Cylinder Assembly Operational Prototype
-</div>
+This project involved designing and machining a compressed air engine from scratch. I contributed by machining the air-piston cylinder and helping assemble the functional prototype. This required precision CNC and manual machining, technical drawings, and hands-on teamwork.
 
 <div align="center">
     <img src="photos/Air_Engine_001.jpg" alt="image" width="300">
@@ -59,14 +59,14 @@ I felt that I had learned all of these skills through my own effort, and in the 
     <img src="photos/Air_Engine_002.jpg" alt="image" width="500">
 </div>
 <div align="center">
-    Air-Piston Cylinder Part Drawing
+    Air-Piston Cylinder Technical Drawing
 </div>
 
 <div align="center">
-    <img src="photos/Air_Engine_003.jpg" alt="image" width="300">
+    <img src="photos/Air_Engine_004.jpg" alt="image" width="300">
 </div>
 <div align="center">
-    Air-Piston Cylinders
+    Air-Piston Cylinder Operational Prototype Assembly
 </div>
 
 ### Drag Testing Lab Equipment
