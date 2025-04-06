@@ -4,14 +4,14 @@ My name is Dalton Facer, I have earned my Associates in Applied Sciences Degree 
 I have acquired experience in Construction, Woodworking, CNC and Manual Machining, Addative Manufacturing, and Home Projects, as well as digital design experience with programs such as Revit, AutoCAD, Solidworks, OnShape, C++, and Python.
 
 <div align="center">
-    <img src="5.jpg" alt="image" width="300">
+    <img src="photos/5.jpg" alt="image" width="300">
 </div>
 
 ## 3. Projects
 
 ### Camp Barnes Eagle Project
 <div align="center">
-    <img src="Camp_Barnes_001.jpg" alt="image" width="600">
+    <img src="photos/Camp_Barnes_001.jpg" alt="image" width="600">
 </div>
 <div align="center">
     Eagle Project: Camp Barnes Waterfront Sign
@@ -22,7 +22,7 @@ I have acquired experience in Construction, Woodworking, CNC and Manual Machinin
 
 ### Drag Testing Lab Equipment
 <div align="center">
-    <img src="Drag_Testing_001.jpg" alt="image" width="600">
+    <img src="photos/Drag_Testing_001.jpg" alt="image" width="600">
 </div>
 <div align="center">
     Eagle Project: Camp Barnes Waterfront Sign
