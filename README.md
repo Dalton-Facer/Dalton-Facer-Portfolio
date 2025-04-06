@@ -91,7 +91,7 @@ This entire project needed to be waterproofed, transportable, and easy to operat
 I am currently attending University of Delaware and am working with a team of engineers to finalize the front station of a Pharmaceutical Packaging Line. It will automatically orient pill bottles upright, fill them with exactly 30 pills, weigh and reject the bottles with too many or too little pills, and transition the bottles to the back station.
 
 <div align="center">
-    <img src="photos/Pharmaceutical.jpg" alt="image" width="600">
+    <img src="photos/Pharmaceutical_001.jpg" alt="image" width="600">
 </div>
 <div align="center">
     <b>Automated Pharmaceutical Packaging Line</b>
