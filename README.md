@@ -30,7 +30,7 @@ Through this experience, I gained valuable skills in advertising and fundraising
     Project Totals
 </div>
         
-The project was in total around $4,900, all of which I did the promotion and fundraising for, including fundraising at local banks, collaborating with local businesses, and speaking in front of a nonprofit organization of local contractors, contractors for a cause.
+The project was in total around $4,900, all of which I did the promotion and fundraising for, including fundraising at local banks, collaborating with local businesses, and speaking in front of a nonprofit organization of local contractors, Contractors for a Cause.
 
 ### Delaware Tech Machined Compressed Air Engine
 
