@@ -72,13 +72,14 @@ This entire project needed to be waterproofed, transportable, and easy to operat
 
 ### Automated Pharmaceutical Packaging Line
 
-I am currently attending University of Delaware and am working with a team of engineers to finalize the front station of a Pharmaceutical Packaging Line. It will automatically orient pill bottles upright, fill them with exactly 30 pills, weigh and reject the bottles with too many or too little pills, and transition the bottles to the back station.
+I am currently attending University of Delaware and am working with a team of engineers to finalize the front station of a Pharmaceutical Packaging Line. It will automatically orient pill bottles upright, fill them with exactly 30 pills, weigh and reject the bottles with too many or too little pills, and transition the bottles to the back station, which puts the caps on the bottles, screws them on, and collects them at the end.
 
 <div align="center" style="font-weight: bold;">
     <img src="photos/Assembly_001.png" alt="image" width="300"><br>
     Automated Pharmaceutical Packaging Line CAD
 </div>
 
+This system must be accurate and consistent, as in the real world, providing someone with the incorrect ammount of medication would be dangerous, if not lethal.
 We have completed the assembly of this processing line, and are currently working on perfecting each susbsystem, and calibrating the automation process.
 
 <div align="center" style="font-weight: bold;">
@@ -110,7 +111,7 @@ In my Engineering and my leadership, I pride myself in my tendancy to be punctua
 
 ### StudioJAED
 
-I was a mechanical designer for StudioJAED in Bear, DE from the summer of 2023 to present. As a mechanical designer for Studio JAED, I designed Mechanical, Plumbing, and Electrical (MEP) plans for schools, labs, and governmental buildings. I created new work MEP plans for John G. Leach School, renovation plans for William Penn HS and the Wilmington DMV, and conducted surveys at many Colonial School District schools and the Legislative Hall in Dover, DE.
+I was a mechanical designer for StudioJAED in Bear, DE from the summer of 2023 to present. As a mechanical designer for Studio JAED, I designed Mechanical, Plumbing, and Electrical (MEP) plans for schools, labs, and governmental buildings. I created new work MEP plans for John G. Leach School, renovation plans for William Penn HS and the Wilmington DMV, and conducted surveys at many Colonial School District facilities and the Legislative Hall in Dover, DE.
 
 ### Rogan Custom Construction
 
