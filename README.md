@@ -111,7 +111,7 @@ In my Engineering and my leadership, I pride myself in my tendancy to be punctua
 
 ### StudioJAED
 
-I was a mechanical designer for StudioJAED in Bear, DE from the summer of 2023 to present. As a mechanical designer for Studio JAED, I designed Mechanical, Plumbing, and Electrical (MEP) plans for schools, labs, and governmental buildings. I created new work MEP plans for John G. Leach School, renovation plans for William Penn HS and the Wilmington DMV, and conducted surveys at many Colonial School District facilities and the Legislative Hall in Dover, DE.
+I was a mechanical designer for StudioJAED in Bear, DE from the summer of 2023 to present. As a mechanical designer for Studio JAED, I designed Mechanical, Plumbing, and Electrical (MEP) plans for schools, labs, and governmental buildings. I created new work MEP plans for John G. Leach School, renovation plans for William Penn HS and the Wilmington DMV, and conducted surveys at many Colonial School District educational facilities and the Legislative Hall in Dover, DE.
 
 ### Rogan Custom Construction
 
