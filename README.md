@@ -23,7 +23,7 @@ My father was the Scoutmaster for most of the time I was in the scouting, and fo
     Fundraiser
 </div>
 
-Through this experience, I gained valuable skills in advertising and fundraising, designing, promoting the project, assembling a team of volunteers, scheduling, and leading the construction process. I had began fundraising for this project around the time that COVID hit, which caused for price inflations and longer wait times. This was a big hurdle which delayed the project, but it was one that I would eventually break past.
+Through this experience, I gained valuable skills in advertising and fundraising, designing, promoting the project, assembling a team of volunteers, scheduling, and leading the construction process. I had began fundraising for this project around the time that COVID hit, which caused for price inflations and longer wait times. This was a big hurdle which delayed the project, but it was one that I would eventually overcome.
 
 <div align="center" style="font-weight: bold;">
     <img src="photos/eagle_costs.png" alt="image" width="600"><br>
