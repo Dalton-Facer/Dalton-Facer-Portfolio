@@ -88,6 +88,12 @@ We have completed the assembly of this processing line, and are currently workin
 
 This system will be fully operational in early may, and will ideally work consistently and fully-autonomously.
 
+### Home Projects
+
+My dad and I have worked on a multitude of home construction projects. Our largest one to date is a rear extension. A back patio with a pergola, an outddoor kitchen, and soon enough, a pizza oven.
+(Insert Image Here)
+While I have not worked in construction for a few years now, I have still had some time to work on this project, as well as renovating our basement. With this I have gained experience with interior electrical work, and have applied my knowledge from working at StudioJAED
+
 ## 3. Skills
 
 ### Manufacturing, CAD, and Simulation
@@ -103,10 +109,18 @@ In my Engineering and my leadership, I pride myself in my tendancy to be punctua
 ## 4. Work and Internship Experience | Certifications and Training
 
 ### StudioJAED
-#### Rennovations
-#### Surveys
+
+I was a mechanical designer for StudioJAED in Bear, DE from the summer of 2023 to present. As a mechanical designer for Studio JAED, I designed Mechanical, Plumbing, and Electrical (MEP) plans for schools, labs, and governmental buildings. I created new work MEP plans for John G. Leach School, renovation plans for William Penn HS and the Wilmington DMV, and conducted surveys at many Colonial School District schools and the Legislative Hall in Dover, DE.
 
 ### Rogan Custom Construction
+
+I worked with a home renovation contractor, Pete Rogan with Rogan Custom Construction in the summer of 2022. I learned how to use general hand tools such as a hammer, tape measure, and chalk line. I acquired experience using power tools such as circular saws, reciprocating saws, and framing/nail guns. I performed installations and repairs for windows, wood and tile flooring, doors, and shingles. All of these skills I have used in home projects and in some of my college engineering classes.
+
 ### CPR Delaware
 
-## 5. Resume & Contact Information
+Before I began my pursuit of engineering, I was an assistant instructor for CPR Delaware, where I instructed, guided, and trained hundreds of Healthcare Professionals in proper CPR compressions and breaths at community centers across Sussex County. Here, I acquired CPR and AED certification which was valuable experience for when I was a lifeguard in the summer of 2023.
+
+## 5. Contact Information
+Email: Dalton.J.Facer@gmail.com
+Phone: (302)-604-0761
+
