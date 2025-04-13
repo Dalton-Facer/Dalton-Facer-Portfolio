@@ -121,6 +121,7 @@ I worked with a home renovation contractor, Pete Rogan with Rogan Custom Constru
 Before I began my pursuit of engineering, I was an assistant instructor for CPR Delaware, where I instructed, guided, and trained hundreds of Healthcare Professionals in proper CPR compressions and breaths at community centers across Sussex County. Here, I acquired CPR and AED certification which was valuable experience for when I was a lifeguard in the summer of 2023.
 
 ## 5. Contact Information
-Email: Dalton.J.Facer@gmail.com
-Phone: (302)-604-0761
-
+<div align="center" style="font-weight: bold;">
+    Email: Dalton.J.Facer@gmail.com<br>
+    Phone: (302)-604-0761
+</div>
