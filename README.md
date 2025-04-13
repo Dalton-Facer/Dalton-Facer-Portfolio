@@ -61,14 +61,14 @@ In my Engineering project class, we were assigned with designing drag testing eq
     Drag Testing Equipment Drawing
 </div>
 
-In order to determine the coefficient of drag on an object, we need the density of the fluid, he reference area of the object, the force applied to the object, and the velocity of the fluid. With our design, we measure the force of drag on the object with a load cell, and can find the fluid velocity with the flow rate in the tubing.
+In order to determine the coefficient of drag on an object, we need the density of the fluid, the reference area of the object, the force applied to the object, and the velocity of the fluid. With our design, we measure the force of drag on the object with a load cell, and can find the fluid velocity with the flow rate in the tubing.
 
 <div align="center" style="font-weight: bold;">
     <img src="photos/Drag_Testing_001.jpg" alt="image" width="600"><br>
     Drag Testing Equipment Assembly
 </div>
 
-This entire project needed to be waterproofed, transportable, and easy to operate, so we made sure to put the proper measures in place to ensure ease of use and maximal safety.
+This entire project needed to be waterproofed, transportable, and easy to operate, so we made sure to put the proper measures in place to ensure ease of use and to maximize safety.
 
 ### Automated Pharmaceutical Packaging Line
 
