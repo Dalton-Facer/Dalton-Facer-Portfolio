@@ -1,6 +1,6 @@
 # Portfolio
 ## 1. Who Am I?
-My name is Dalton Facer, I have earned my Associates in Applied Sciences Degree from Delaware Terchnical Community College, and I am currently an Undergraduate Mechanical Engineering Student in the College of Engineering at the University of Delaware. 
+My name is Dalton Facer, I have earned my Associates in Applied Sciences Degree from Delaware Technical Community College, and I am currently an Undergraduate Mechanical Engineering Student in the College of Engineering at the University of Delaware. 
 I have acquired experience in Construction, Woodworking, CNC and Manual Machining, Addative Manufacturing, and Home Projects, as well as digital design experience with programs such as Revit, AutoCAD, Solidworks, OnShape, C++, and Python.
 
 <div align="center">
@@ -8,24 +8,6 @@ I have acquired experience in Construction, Woodworking, CNC and Manual Machinin
 </div>
 
 ## 2. Projects
-
-### Delaware Tech Engineering Project: Drag Testing Lab Equipment
-In my Engineering project class, we were assigned with designing drag testing equipment. The fluids lab was in need of a tool for demonstrating the coefficient of drag equation, so we developed a fluid loop powered by two electric thrusters.
-
-<div align="center" style="font-weight: bold;">
-    <img src="photos/Drag_Testing_002.png" alt="image" width="600"><br>
-    Drag Testing Equipment Drawing
-</div>
-
-In order to determine the coefficient of drag on an object, we need the density of the fluid, the reference area of the object, the force applied to the object, and the velocity of the fluid. With our design, we measure the force of drag on the object with a load cell, and can find the fluid velocity with the flow rate in the tubing.
-
-<div align="center" style="font-weight: bold;">
-    <img src="photos/Drag_Testing_001.jpg" alt="image" width="600"><br>
-    Drag Testing Equipment Assembly
-</div>
-
-This entire project needed to be waterproofed, transportable, and easy to operate, so we made sure to put the proper measures in place to ensure ease of use and to maximize safety.
-
 
 ### Automated Pharmaceutical Packaging Line
 
@@ -45,6 +27,23 @@ We have completed the assembly of this processing line, and are currently workin
 </div>
 
 This system will be fully operational in early may, and will ideally work consistently and fully-autonomously.
+
+### Delaware Tech Engineering Project: Drag Testing Lab Equipment
+In my Engineering project class, we were assigned with designing drag testing equipment. The fluids lab was in need of a tool for demonstrating the coefficient of drag equation, so we developed a fluid loop powered by two electric thrusters.
+
+<div align="center" style="font-weight: bold;">
+    <img src="photos/Drag_Testing_002.png" alt="image" width="600"><br>
+    Drag Testing Equipment Drawing
+</div>
+
+In order to determine the coefficient of drag on an object, we need the density of the fluid, the reference area of the object, the force applied to the object, and the velocity of the fluid. With our design, we measure the force of drag on the object with a load cell, and can find the fluid velocity with the flow rate in the tubing.
+
+<div align="center" style="font-weight: bold;">
+    <img src="photos/Drag_Testing_001.jpg" alt="image" width="600"><br>
+    Drag Testing Equipment Assembly
+</div>
+
+This entire project needed to be waterproofed, transportable, and easy to operate, so we made sure to put the proper measures in place to ensure ease of use and to maximize safety.
 
 ### Delaware Tech Machined Compressed Air Engine
 
