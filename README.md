@@ -9,28 +9,42 @@ I have acquired experience in Construction, Woodworking, CNC and Manual Machinin
 
 ## 2. Projects
 
-### Camp Barnes Eagle Project
-Scouting has played a crucial role in shaping the man I have become today, as much of my childhood was spent going on camping trips, completing Merit Badges, and into my early adult life, leading a Troop of other young adults whom I would inspire. The completion of my Eagle Project, the fundraising and construction of a waterfront sign for Camp Barnes in Selbyville, DE, is an achievement I take much pride in.
-<div align="center" style="font-weight: bold;">
-    <img src="photos/Camp_Barnes_003.jpg" alt="image" width="400"><br>
-    Eagle Project: Camp Barnes Waterfront Sign
-</div>
-
-My father was the Scoutmaster for most of the time I was in the scouting, and for alot of that time he would keep a hands-off approach. He would allow the boys to problem solve on their own and to justify their decisions whilst working out disputes. While I was working on my eagle project, he kept this approach. He gave suggestions but did not at any point take control of my project. It allowed me face the chalenge with my own two hands. 
+### Delaware Tech Engineering Project: Drag Testing Lab Equipment
+In my Engineering project class, we were assigned with designing drag testing equipment. The fluids lab was in need of a tool for demonstrating the coefficient of drag equation, so we developed a fluid loop powered by two electric thrusters.
 
 <div align="center" style="font-weight: bold;">
-    <img src="photos/Camp_Barnes_002.jpg" alt="image" width="250"><br>
-    Fundraiser
+    <img src="photos/Drag_Testing_002.png" alt="image" width="600"><br>
+    Drag Testing Equipment Drawing
 </div>
 
-Through this experience, I gained valuable skills in advertising and fundraising, designing, promoting the project, assembling a team of volunteers, scheduling, and leading the construction process. I had began fundraising for this project around the time that COVID hit, which caused for price inflations and longer wait times. This was a big hurdle which delayed the project, but it was one that I would eventually overcome.
+In order to determine the coefficient of drag on an object, we need the density of the fluid, the reference area of the object, the force applied to the object, and the velocity of the fluid. With our design, we measure the force of drag on the object with a load cell, and can find the fluid velocity with the flow rate in the tubing.
 
 <div align="center" style="font-weight: bold;">
-    <img src="photos/eagle_costs.png" alt="image" width="600"><br>
-    Project Totals
+    <img src="photos/Drag_Testing_001.jpg" alt="image" width="600"><br>
+    Drag Testing Equipment Assembly
 </div>
-        
-The project was in total around $4,900, all of which I did the promotion and fundraising for, including fundraising at local banks, collaborating with local businesses, and speaking in front of a nonprofit organization of local contractors, Contractors for a Cause.
+
+This entire project needed to be waterproofed, transportable, and easy to operate, so we made sure to put the proper measures in place to ensure ease of use and to maximize safety.
+
+
+### Automated Pharmaceutical Packaging Line
+
+I am currently attending University of Delaware and am working with a team of engineers to finalize the front station of a Pharmaceutical Packaging Line. It will automatically orient pill bottles upright, fill them with exactly 30 pills, weigh and reject the bottles with too many or too little pills, and transition the bottles to the back station, which puts the caps on the bottles, screws them on, and collects them at the end.
+
+<div align="center" style="font-weight: bold;">
+    <img src="photos/Assembly_001.png" alt="image" width="300"><br>
+    Automated Pharmaceutical Packaging Line CAD
+</div>
+
+This system must be accurate and consistent, as in the real world, providing someone with the incorrect ammount of medication would be dangerous, if not lethal.
+We have completed the assembly of this processing line, and are currently working on perfecting each susbsystem, and calibrating the automation process.
+
+<div align="center" style="font-weight: bold;">
+    <img src="photos/Pharmaceutical_001.jpg" alt="image" width="300"><br>
+    Automated Pharmaceutical Packaging Line
+</div>
+
+This system will be fully operational in early may, and will ideally work consistently and fully-autonomously.
 
 ### Delaware Tech Machined Compressed Air Engine
 
@@ -53,41 +67,28 @@ This project involved designing and machining a compressed air engine from scrat
 
 Once we constructed a working prototype, we made 13 more full assemblies. Each member of the team acquired an operational Air-Piston Cylinder.
 
-### Delaware Tech Engineering Project: Drag Testing Lab Equipment
-In my Engineering project class, we were assigned with designing drag testing equipment. The fluids lab was in need of a tool for demonstrating the coefficient of drag equation, so we developed a fluid loop powered by two electric thrusters.
-
+### Camp Barnes Eagle Project
+Scouting has played a crucial role in shaping the man I have become today, as much of my childhood was spent going on camping trips, completing Merit Badges, and into my early adult life, leading a Troop of other young adults whom I would inspire. The completion of my Eagle Project, the fundraising and construction of a waterfront sign for Camp Barnes in Selbyville, DE, is an achievement I take much pride in.
 <div align="center" style="font-weight: bold;">
-    <img src="photos/Drag_Testing_002.png" alt="image" width="600"><br>
-    Drag Testing Equipment Drawing
+    <img src="photos/Camp_Barnes_003.jpg" alt="image" width="400"><br>
+    Eagle Project: Camp Barnes Waterfront Sign
 </div>
 
-In order to determine the coefficient of drag on an object, we need the density of the fluid, the reference area of the object, the force applied to the object, and the velocity of the fluid. With our design, we measure the force of drag on the object with a load cell, and can find the fluid velocity with the flow rate in the tubing.
+My father was the Scoutmaster for most of the time I was in the scouting, and for alot of that time he would keep a hands-off approach. He would allow the boys to problem solve on their own and to justify their decisions whilst working out disputes. While I was working on my eagle project, he kept this approach. He gave suggestions but did not at any point take control of my project. It allowed me face the chalenge with my own two hands. 
 
 <div align="center" style="font-weight: bold;">
-    <img src="photos/Drag_Testing_001.jpg" alt="image" width="600"><br>
-    Drag Testing Equipment Assembly
+    <img src="photos/Camp_Barnes_002.jpg" alt="image" width="250"><br>
+    Fundraiser
 </div>
 
-This entire project needed to be waterproofed, transportable, and easy to operate, so we made sure to put the proper measures in place to ensure ease of use and to maximize safety.
-
-### Automated Pharmaceutical Packaging Line
-
-I am currently attending University of Delaware and am working with a team of engineers to finalize the front station of a Pharmaceutical Packaging Line. It will automatically orient pill bottles upright, fill them with exactly 30 pills, weigh and reject the bottles with too many or too little pills, and transition the bottles to the back station, which puts the caps on the bottles, screws them on, and collects them at the end.
+Through this experience, I gained valuable skills in advertising and fundraising, designing, promoting the project, assembling a team of volunteers, scheduling, and leading the construction process. I had began fundraising for this project around the time that COVID hit, which caused for price inflations and longer wait times. This was a big hurdle which delayed the project, but it was one that I would eventually overcome.
 
 <div align="center" style="font-weight: bold;">
-    <img src="photos/Assembly_001.png" alt="image" width="300"><br>
-    Automated Pharmaceutical Packaging Line CAD
+    <img src="photos/eagle_costs.png" alt="image" width="600"><br>
+    Project Totals
 </div>
-
-This system must be accurate and consistent, as in the real world, providing someone with the incorrect ammount of medication would be dangerous, if not lethal.
-We have completed the assembly of this processing line, and are currently working on perfecting each susbsystem, and calibrating the automation process.
-
-<div align="center" style="font-weight: bold;">
-    <img src="photos/Pharmaceutical_001.jpg" alt="image" width="300"><br>
-    Automated Pharmaceutical Packaging Line
-</div>
-
-This system will be fully operational in early may, and will ideally work consistently and fully-autonomously.
+        
+The project was in total around $4,900, all of which I did the promotion and fundraising for, including fundraising at local banks, collaborating with local businesses, and speaking in front of a nonprofit organization of local contractors, Contractors for a Cause.
 
 ### Home Projects
 
