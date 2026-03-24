@@ -11,22 +11,21 @@ I have acquired experience in Construction, Woodworking, CNC and Manual Machinin
 
 ### Automated Pharmaceutical Packaging Line
 
-I am currently attending University of Delaware and am working with a team of engineers to finalize the front station of a Pharmaceutical Packaging Line. It will automatically orient pill bottles upright, fill them with exactly 30 pills, weigh and reject the bottles with too many or too little pills, and transition the bottles to the back station, which puts the caps on the bottles, screws them on, and collects them at the end.
+I am currently attending University of Delaware. For a Junior Design project last year, me and a team of mechanical engineering students were tasked with designing, manufacturing, and automating the front station of a Pharmaceutical Packaging Line while following all design and manufacturing best practices. 
 
 <div align="center" style="font-weight: bold;">
     <img src="photos/Assembly_001.png" alt="image" width="300"><br>
     Automated Pharmaceutical Packaging Line CAD
 </div>
 
-This system must be accurate and consistent, as in the real world, providing someone with the incorrect ammount of medication would be dangerous, if not lethal.
-We have completed the assembly of this processing line, and are currently working on perfecting each susbsystem, and calibrating the automation process.
+The system was designed for simplicity, where pill bottles are dumped into one point, pills are dumped into another, and the system must orient the pill bottles upright, fill them with exactly 30 pills, validate each bottle after filling and reject the bottles with too many or too little pills, and finally transition the bottles to the back station, which puts the caps on the bottles, screws them on, and performs a final validation step.
 
 <div align="center" style="font-weight: bold;">
     <img src="photos/Pharmaceutical_001.jpg" alt="image" width="300"><br>
     Automated Pharmaceutical Packaging Line
 </div>
 
-This system will be fully operational in early may, and will ideally work consistently and fully-autonomously.
+This system operated consistently and fully-autonomously upon completion. The experience taught me a lot about proper part design for ease of access and installation, custom-made device calibration, full-system coding logic in C++, and overall collaboration on greater engineering assemblies.
 
 ### Delaware Tech Engineering Project: Drag Testing Lab Equipment
 In my Engineering project class, we were assigned with designing drag testing equipment. The fluids lab was in need of a tool for demonstrating the coefficient of drag equation, so we developed a fluid loop powered by two electric thrusters.
@@ -125,4 +124,3 @@ Before I began my pursuit of engineering, I was an assistant instructor for CPR 
 <div align="center" style="font-weight: bold;">
     Email: Dalton.J.Facer@gmail.com<br>
     Phone: (302)-604-0761
-</div>
