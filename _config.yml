@@ -1,7 +1,6 @@
 title: Dalton Facer
-logo: /assets/img/5.jpg
+logo: /photos/5.jpg
 description: This portfolio showcases the work of Dalton Facer, an undergraduate student in the College of Engineering at the University of Delaware.
-logo: 5.jpg
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
