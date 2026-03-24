@@ -1,13 +1,28 @@
-# Portfolio
-## 1. Who Am I?
-My name is Dalton Facer, I have earned my Associates in Applied Sciences Degree from Delaware Technical Community College, and I am currently an Undergraduate Mechanical Engineering Student in the College of Engineering at the University of Delaware. 
-I have acquired experience in Construction, Woodworking, CNC and Manual Machining, Addative Manufacturing, and Home Projects, as well as digital design experience with programs such as Revit, AutoCAD, Solidworks, OnShape, C++, and Python.
+# Mechanical Engineer
 
-<div align="center">
-    <img src="photos/5.jpg" alt="image" width="300">
+<div style="font-weight: bold;">
+    Technical Skils: Solidworks, AutoCAD, Revit, Python, C++, MatLAB.
 </div>
 
-## 2. Projects
+# Education
+    - A.A.S., Mechanical Engineering Technology | Delaware Technical Community College
+    - M.S., Mechanical Engineering | University of Delaware
+
+## Work Experience 
+
+### StudioJAED
+
+    I was a mechanical designer for StudioJAED in Bear, DE from the summer of 2023 to present. As a mechanical designer for Studio JAED, I designed Mechanical, Plumbing, and Electrical (MEP) plans for schools, labs, and governmental buildings. I created new work MEP plans for John G. Leach School, renovation plans for William Penn HS and the Wilmington DMV, and conducted surveys at many Colonial School District educational facilities and the Legislative Hall in Dover, DE.
+
+### Rogan Custom Construction
+
+    I worked with a home renovation contractor, Pete Rogan with Rogan Custom Construction in the summer of 2022. I learned how to use general hand tools such as a hammer, tape measure, and chalk line. I acquired experience using power tools such as circular saws, reciprocating saws, and framing/nail guns. I performed installations and repairs for windows, wood and tile flooring, doors, and shingles. All of these skills I have used in home projects and in some of my college engineering classes.
+
+### CPR Delaware
+
+    Before I began my pursuit of engineering, I was an assistant instructor for CPR Delaware, where I instructed, guided, and trained hundreds of Healthcare Professionals in proper CPR compressions and breaths at community centers across Sussex County. Here, I acquired CPR and AED certification which was valuable experience for when I was a lifeguard in the summer of 2023.
+
+## Projects
 
 ### Automated Pharmaceutical Packaging Line
 
