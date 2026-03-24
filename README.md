@@ -4,7 +4,7 @@
 
 # Education
 - A.A.S., Mechanical Engineering Technology | Delaware Technical Community College (_May 2024_)
-- M.S., Mechanical Engineering	| The University of Delaware (_December 2026_)
+- M.S., Mechanical Engineering	            | The University of Delaware (_December 2026_)
 
 ## Work Experience
 **Mechanical Engineering Intern @ StudioJAED (_June 2023 - Present_)**
@@ -102,19 +102,7 @@ My dad and I have worked on a multitude of home construction projects. Our large
 (Insert Image Here)
 While I have not worked in construction for a few years now, I have still had some time to work on this project, as well as renovating our basement. With this I have gained experience with interior electrical work, and have applied my knowledge from working at StudioJAED
 
-## 3. Skills
-
-### Manufacturing, CAD, and Simulation
-Prototyping, Designing, and Manufacturing are all things that I have acquired extensive training with in my edcation, work, and home projects.
-
-### Leadership (Eagle + Outstanding Graduate + Collaboration with Separate Groups)
-I have had many oppertunities to demonstrate my leadership in both Scouting and College. I believe my experience has helped me become a well-rounded, professional engineer who takes pride in his work.
-
-### Professionalism
-
-In my Engineering and my leadership, I pride myself in my tendancy to be punctual, and to strive for maximal proficiency. I put in the utmost effort to have a deep-seated understanding of all facets of my work. This dedication fuels my excitement for learning and continuous improvement. This perspective derives itself from my love for playing the piano, an art that demands discipline, precision, and creativity. The parallels between my passions and proficiencies often shape my decision-making process. I tend to think in comparisons and metaphors, taking ideas from one area and applying them in another to see things from a new angle or come up with creative solutions.
-
-## 5. Contact Information
+## Contact Information
 <div align="center" style="font-weight: bold;">
     Email: Dalton.J.Facer@gmail.com<br>
     Phone: (302)-604-0761
