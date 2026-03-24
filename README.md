@@ -1,26 +1,19 @@
 # Mechanical Engineer
 
-<div style="font-weight: bold;">
-    Technical Skils: Solidworks, AutoCAD, Revit, Python, C++, MatLAB.
-</div>
+#### Technical Skils: Solidworks, AutoCAD, Revit, Python, C++, MatLAB.
 
 # Education
-    - A.A.S., Mechanical Engineering Technology | Delaware Technical Community College
-    - M.S., Mechanical Engineering | University of Delaware
+- A.A.S., Mechanical Engineering Technology | Delaware Technical Community College (_May 2024_)
+- M.S., Mechanical Engineering	| The University of Delaware (_December 2026_)
 
-## Work Experience 
+## Work Experience
+**Mechanical Engineering Intern @ StudioJAED (_June 2023 - Present_)**
+- Designed Mechanical, Plumbing, and Electrical (MEP) plans for schools, labs, and governmental buildings.
+- Conducted surveys at many Colonial School District educational facilities and the Legislative Hall in Dover, DE.
 
-### StudioJAED
-
-    I was a mechanical designer for StudioJAED in Bear, DE from the summer of 2023 to present. As a mechanical designer for Studio JAED, I designed Mechanical, Plumbing, and Electrical (MEP) plans for schools, labs, and governmental buildings. I created new work MEP plans for John G. Leach School, renovation plans for William Penn HS and the Wilmington DMV, and conducted surveys at many Colonial School District educational facilities and the Legislative Hall in Dover, DE.
-
-### Rogan Custom Construction
-
-    I worked with a home renovation contractor, Pete Rogan with Rogan Custom Construction in the summer of 2022. I learned how to use general hand tools such as a hammer, tape measure, and chalk line. I acquired experience using power tools such as circular saws, reciprocating saws, and framing/nail guns. I performed installations and repairs for windows, wood and tile flooring, doors, and shingles. All of these skills I have used in home projects and in some of my college engineering classes.
-
-### CPR Delaware
-
-    Before I began my pursuit of engineering, I was an assistant instructor for CPR Delaware, where I instructed, guided, and trained hundreds of Healthcare Professionals in proper CPR compressions and breaths at community centers across Sussex County. Here, I acquired CPR and AED certification which was valuable experience for when I was a lifeguard in the summer of 2023.
+**Carpenter @ Rogan Custom Construction (_May 2022 - August 2022_)**
+- Constructed a shed, and a rear extension with a porch.
+- Gained experience using power tools such as circular saws, reciprocating saws, and framing/nail guns
 
 ## Projects
 
@@ -120,20 +113,6 @@ I have had many oppertunities to demonstrate my leadership in both Scouting and 
 ### Professionalism
 
 In my Engineering and my leadership, I pride myself in my tendancy to be punctual, and to strive for maximal proficiency. I put in the utmost effort to have a deep-seated understanding of all facets of my work. This dedication fuels my excitement for learning and continuous improvement. This perspective derives itself from my love for playing the piano, an art that demands discipline, precision, and creativity. The parallels between my passions and proficiencies often shape my decision-making process. I tend to think in comparisons and metaphors, taking ideas from one area and applying them in another to see things from a new angle or come up with creative solutions.
-
-## 4. Work and Internship Experience | Certifications and Training
-
-### StudioJAED
-
-I was a mechanical designer for StudioJAED in Bear, DE from the summer of 2023 to present. As a mechanical designer for Studio JAED, I designed Mechanical, Plumbing, and Electrical (MEP) plans for schools, labs, and governmental buildings. I created new work MEP plans for John G. Leach School, renovation plans for William Penn HS and the Wilmington DMV, and conducted surveys at many Colonial School District educational facilities and the Legislative Hall in Dover, DE.
-
-### Rogan Custom Construction
-
-I worked with a home renovation contractor, Pete Rogan with Rogan Custom Construction in the summer of 2022. I learned how to use general hand tools such as a hammer, tape measure, and chalk line. I acquired experience using power tools such as circular saws, reciprocating saws, and framing/nail guns. I performed installations and repairs for windows, wood and tile flooring, doors, and shingles. All of these skills I have used in home projects and in some of my college engineering classes.
-
-### CPR Delaware
-
-Before I began my pursuit of engineering, I was an assistant instructor for CPR Delaware, where I instructed, guided, and trained hundreds of Healthcare Professionals in proper CPR compressions and breaths at community centers across Sussex County. Here, I acquired CPR and AED certification which was valuable experience for when I was a lifeguard in the summer of 2023.
 
 ## 5. Contact Information
 <div align="center" style="font-weight: bold;">
