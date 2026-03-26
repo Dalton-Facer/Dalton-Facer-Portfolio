@@ -96,12 +96,6 @@ Through this experience, I gained valuable skills in advertising and fundraising
         
 The project was in total around $4,900, all of which I did the promotion and fundraising for, including fundraising at local banks, collaborating with local businesses, and speaking in front of a nonprofit organization of local contractors, Contractors for a Cause.
 
-### Home Projects
-
-My dad and I have worked on a multitude of home construction projects. Our largest one to date is a rear extension. A back patio with a pergola, an outddoor kitchen, and soon enough, a pizza oven.
-(Insert Image Here)
-While I have not worked in construction for a few years now, I have still had some time to work on this project, as well as renovating our basement. With this I have gained experience with interior electrical work, and have applied my knowledge from working at StudioJAED
-
 ## Contact Information
 <div align="center" style="font-weight: bold;">
     Email: Dalton.J.Facer@gmail.com<br>
